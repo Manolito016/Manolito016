@@ -3,20 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito016;Vibe+Coder+%F0%9F%8E%B5;Building+While+Vibing+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manolito016&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Profile Trophy" />
-</p>
-
-<!-- GitHub Stats -->
+<!-- GitHub Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manolito016&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manolito016&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manolito016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manolito016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="Top Languages" height="180" />
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manolito016&theme=tokyonight&hide_border=false&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=A855F7&sideLabel=A0A0B0&sideNums=A0A0B0&currStreakNum=A855F7" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manolito016&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=A855F7&sideLabel=A0A0B0&sideNums=A0A0B0&currStreakNum=A855F7" alt="GitHub Streak" height="180" />
 </div>
 
 ---
@@ -61,10 +56,7 @@ const manolito016 = {
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -74,10 +66,11 @@ const manolito016 = {
 
 <div align="center">
 
-| [**Portfolio**](https://github.com/Manolito016/Portfolio) | [**ToramDamageCalcu**](https://github.com/Manolito016/ToramDamageCalcu) | [**OJT_JOURNAL**](https://github.com/Manolito016/OJT_JOURNAL) |
+| [**OJT_JOURNAL**](https://github.com/Manolito016/OJT_JOURNAL) | [**ToramDamageCalcu**](https://github.com/Manolito016/ToramDamageCalcu) | [**Portfolio**](https://github.com/Manolito016/Portfolio) |
 |:---:|:---:|:---:|
-| [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/Portfolio) | [![ToramDamageCalcu](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=ToramDamageCalcu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/ToramDamageCalcu) | [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/OJT_JOURNAL) |
-| 🎵 Modern portfolio website | 🎮 Damage calculator for Toram | 📔 OJT documentation platform |
+| [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/OJT_JOURNAL) | [![ToramDamageCalcu](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=ToramDamageCalcu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/ToramDamageCalcu) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/Portfolio) |
+| 📔 OJT documentation with AI | 🎮 Toram damage calculator | 🎵 Modern portfolio website |
+| `JavaScript` `PHP` `AI` | `TypeScript` `React` `Vite` | `HTML` `CSS` `JavaScript` |
 
 </div>
 
@@ -93,14 +86,15 @@ const manolito016 = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manolito016&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manolito016&theme=tokyonight)
 
-| ![Starstruck](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manolito016&theme=tokyonight) | ![Pull Shark](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manolito016&theme=tokyonight) | ![Galaxy Brain](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manolito016&theme=tokyonight&utcOffset=8) |
+| Most Used Language | Top Repositories | Productive Time |
 |:---:|:---:|:---:|
+| ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manolito016&theme=tokyonight) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manolito016&theme=tokyonight) | ![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manolito016&theme=tokyonight&utcOffset=8) |
 
 </div>
 
