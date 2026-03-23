@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+Developer+%F0%9F%92%BB;Web+Development+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+AI+Enthusiast+%F0%9F%A4%96;Building+with+AI+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <!-- GitHub Stats Cards -->
@@ -23,16 +23,16 @@ const manolito016 = {
   name: "Manolito O. Almaden Jr.",
   pronouns: "He/Him",
   location: "Ilocos Sur, Philippines 🌍",
-  role: "IT Student & Web Developer",
+  role: "IT Student & AI Enthusiast",
   education: "Information Technology Student",
-  motto: "Building great software ✨",
-  interests: ["Web Development", "System Management", "Open Source", "Gaming"],
+  motto: "Leveraging AI to build innovative solutions ✨",
+  interests: ["Web Development", "AI & Automation", "Agentic AI", "Open Source"],
   currently: {
     learning: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
-    workingOn: "Responsive web applications and academic projects",
-    exploring: "AI-assisted development solutions"
+    workingOn: "Responsive web applications and AI-powered solutions",
+    exploring: "Agentic AI, Generative AI, and workflow automation"
   },
-  funFact: "I experiment with dev tools to accelerate learning! 🎧"
+  funFact: "I use AI to accelerate my learning and problem-solving! 🤖"
 };
 ```
 
@@ -56,44 +56,49 @@ const manolito016 = {
 
 ---
 
-## 🛠️ Skills
+## 🤖 AI Training & Certifications
+
+**Bayanaihan AI para sa Bayan On-the-Job Training Program**
+- Comprehensive training in Artificial Intelligence and workflow automation
+- Focused on Agentic AI, Generative AI, and prompt engineering
+- Built practical MVPs and streamlined operational workflows
+
+**AI Intensive Workshop** (3-day)
+- Foundational AI concepts and technologies
+- Real-world use case hackathon with practical MVP development
+
+**Agentic AI Bootcamp** (5-day)
+- Advanced training on AI Agents and workflow automation
+- Designed and implemented automated processes using Agentic AI tools
+
+---
+
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### Core Skills
-![Web Development](https://img.shields.io/badge/Web_Development-HTML%2FCSS%2FJS-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%2FDatabase-Basic-003B4F?style=for-the-badge&logo=mysql&logoColor=white)
+### Self-Learned / Core Skills
+![HTML5](https://img.shields.io/badge/HTML5-Self--Learned-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Self--Learned-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Self--Learned-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-Self--Learned-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%2FDatabase-Self--Learned-003B4F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI-Assisted Learning
+![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-AI--Assisted-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-AI--Assisted-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-AI--Assisted-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### AI & Automation
+![Generative AI](https://img.shields.io/badge/Generative_AI-Trained-7C3AED?style=for-the-badge&logo=google&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Trained-FF6B35?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Trained-25D366?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-Trained-007ACC?style=for-the-badge)
 
 ### Soft Skills
 ![Communication](https://img.shields.io/badge/Communication-Skills-25D366?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-Skills-FF6B35?style=for-the-badge)
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-FF6B35?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -108,6 +113,20 @@ const manolito016 = {
 | [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/OJT_JOURNAL) | [![ToramDamageCalcu](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=ToramDamageCalcu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/ToramDamageCalcu) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/Portfolio) |
 | 📔 OJT documentation with AI | 🎮 Toram damage calculator | 🎵 Modern portfolio website |
 | `JavaScript` `PHP` `AI` | `TypeScript` `React` `Vite` | `HTML` `CSS` `JavaScript` |
+
+</div>
+
+---
+
+## 🤖 AI Projects & Hackathons
+
+<div align="center">
+
+### AI Intensive Workshop - Hackathon Project
+Built MVP applications using Generative AI and prompt engineering
+
+### Agentic AI Bootcamp - Workflow Automation
+Designed AI agent workflows for automated processes
 
 </div>
 
@@ -187,7 +206,7 @@ const manolito016 = {
 
 <div align="center">
 
-### 💻 Good code, great projects. Let's build something cool!
+### 🤖 AI-powered development. Real-world solutions. Let's innovate!
 
 **Built with** ✨ **by Manolito016**
 
