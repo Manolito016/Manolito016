@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito016;Vibe+Coder+%F0%9F%8E%B5;Building+While+Vibing+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito016;Developer+%F0%9F%92%BB;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <!-- GitHub Stats Cards -->
@@ -22,15 +22,15 @@
 const manolito016 = {
   pronouns: "He/Him",
   location: "Earth 🌍",
-  role: "Vibe Coder",
-  motto: "Good vibes, good code ✨",
+  role: "Developer",
+  motto: "Building great software ✨",
   interests: ["Web Development", "Open Source", "Gaming", "Music"],
   currently: {
     learning: ["JavaScript", "TypeScript", "React"],
     workingOn: "Fun projects that interest me",
     listening: "Lo-fi beats while coding 🎵"
   },
-  funFact: "I code when the vibe is right! 🎧"
+  funFact: "I love coding! 🎧"
 };
 ```
 
@@ -152,7 +152,7 @@ const manolito016 = {
 
 <div align="center">
 
-### 🎵 Good vibes, good code. Let's build something cool!
+### 💻 Good code, great projects. Let's build something cool!
 
 **Built with** ✨ **by Manolito016**
 
