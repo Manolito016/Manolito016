@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito016;Developer+%F0%9F%92%BB;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+Developer+%F0%9F%92%BB;Web+Development+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <!-- GitHub Stats Cards -->
@@ -20,19 +20,56 @@
 
 ```javascript
 const manolito016 = {
+  name: "Manolito O. Almaden Jr.",
   pronouns: "He/Him",
-  location: "Earth 🌍",
-  role: "Developer",
+  location: "Ilocos Sur, Philippines 🌍",
+  role: "IT Student & Web Developer",
+  education: "Information Technology Student",
   motto: "Building great software ✨",
-  interests: ["Web Development", "Open Source", "Gaming", "Music"],
+  interests: ["Web Development", "System Management", "Open Source", "Gaming"],
   currently: {
-    learning: ["JavaScript", "TypeScript", "React"],
-    workingOn: "Fun projects that interest me",
-    listening: "Lo-fi beats while coding 🎵"
+    learning: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
+    workingOn: "Responsive web applications and academic projects",
+    exploring: "AI-assisted development solutions"
   },
-  funFact: "I love coding! 🎧"
+  funFact: "I experiment with dev tools to accelerate learning! 🎧"
 };
 ```
+
+---
+
+## 📚 Education
+
+- **Ilocos Sur Polytechnic State College** - Information Technology (Current)
+- **Pagangpang National High School** - GAS (2016 – 2022)
+- **Pagangpang Elementary School** (2014 – 2016)
+- **Mckinley Primary School** (2011 – 2014)
+
+---
+
+## 💼 Experience
+
+**IT/Student Developer** - *Ilocos Sur Polytechnic State College* (Academic Projects)
+- Developed responsive web applications using HTML, CSS, JavaScript, PHP, and Basic Anvil
+- Built core features such as data registration, tracking, and basic management functions
+- Enhanced usability by optimizing navigation and adding interactive elements
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+### Core Skills
+![Web Development](https://img.shields.io/badge/Web_Development-HTML%2FCSS%2FJS-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%2FDatabase-Basic-003B4F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Soft Skills
+![Communication](https://img.shields.io/badge/Communication-Skills-25D366?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Skills-FF6B35?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -131,9 +168,7 @@ const manolito016 = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Manolito016-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manolito016)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manolito016.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolitoalmadenjr@gmail.com)
 
 </div>
 
