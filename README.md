@@ -229,21 +229,3 @@ Designed AI agent workflows for automated processes
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Today-7C3AED?style=for-the-badge&logo=github)
 
 </div>
-
-<!--
-⚠️ Setup Instructions:
-
-1. Create a new repository named exactly "Manolito016" (your username)
-2. Upload this README.md file to that repository
-3. GitHub will automatically display it on your profile
-4. Customize the links (email, LinkedIn, Twitter, etc.) with your actual profiles
-5. Optional: Set up Spotify integration using novatorem
-
-🎨 Customization Tips:
-
-- Replace placeholder links with your actual social media profiles
-- Add your real email address
-- Update the "Currently Vibing To" section if you want Spotify integration
-- Modify projects to showcase your best work
-- Adjust colors to match your personal brand
--->
