@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+AI+Enthusiast+%F0%9F%A4%96;Building+with+AI+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Photo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manolito016/Manolito016/main/profile.png" alt="Manolito Almaden Jr." width="180" style="border-radius: 16px; border: 2px solid #7C3AED; box-shadow: 0 0 20px rgba(124,58,237,0.3);" />
-</p>
-
 <!-- GitHub Stats Cards -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manolito016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="GitHub Stats" height="180" />
