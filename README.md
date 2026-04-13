@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+AI+Enthusiast+%F0%9F%A4%96;Building+with+AI+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
+<!-- Profile Photo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manolito016/Manolito016/main/profile.png" alt="Manolito Almaden Jr." width="180" style="border-radius: 16px; border: 2px solid #7C3AED; box-shadow: 0 0 20px rgba(124,58,237,0.3);" />
+</p>
+
 <!-- GitHub Stats Cards -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manolito016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="GitHub Stats" height="180" />
@@ -73,13 +78,29 @@ const manolito016 = {
 
 ---
 
+## 🏆 Official Certifications
+
+<div align="center">
+
+[![IT Specialist - HTML & CSS](https://img.shields.io/badge/IT_Specialist-HTML_%26_CSS-7C3AED?style=for-the-badge&logo=certified&logoColor=white)](https://www.credly.com/go/F2SniiMATsxWNpNzPTDxgg)
+
+**IT Specialist — HTML & CSS** | *Certiport, a Pearson VUE Business* | 2026
+
+[🔗 Verify Credential](https://www.credly.com/go/F2SniiMATsxWNpNzPTDxgg)
+
+</div>
+
+---
+
 ## 🛠️ Skills & Technologies
 
 <div align="center">
 
+### Certified Skills
+![HTML5](https://img.shields.io/badge/HTML5-Certified-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Certified-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Self-Learned / Core Skills
-![HTML5](https://img.shields.io/badge/HTML5-Self--Learned-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Self--Learned-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Self--Learned-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-Self--Learned-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL%2FDatabase-Self--Learned-003B4F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -186,6 +207,7 @@ Designed AI agent workflows for automated processes
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Manolito016-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manolito016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manolito%20Almaden%20Jr.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manolito-almaden-jr-a54a6634a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manolito016.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolitoalmadenjr@gmail.com)
 
@@ -195,10 +217,18 @@ Designed AI agent workflows for automated processes
 
 ## 💡 Support
 
+<!-- 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-username)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manolito016)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/manolito016)
+
+</div>
+-->
+
+<div align="center">
+
+*Support links temporarily disabled — configure your preferred donation platform links when ready*
 
 </div>
 
