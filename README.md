@@ -3,17 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+AI+Enthusiast+%F0%9F%A4%96;Building+with+AI+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manolito016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manolito016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=A0A0B0" alt="Top Languages" height="180" />
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manolito016&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=A855F7&sideLabel=A0A0B0&sideNums=A0A0B0&currStreakNum=A855F7" alt="GitHub Streak" height="180" />
-</div>
-
 ---
 
 ## 🎯 About Me
