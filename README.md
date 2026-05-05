@@ -1,7 +1,10 @@
 <!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;IT+Student+%26+AI+Enthusiast+%F0%9F%A4%96;Building+with+AI+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="profile-img.png" alt="Manolito Almaden Jr." width="180" style="border-radius: 50%; margin-bottom: 20px;" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;Software+Engineer+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  </h1>
+</div>
 
 ---
 
@@ -12,16 +15,15 @@ const manolito016 = {
   name: "Manolito O. Almaden Jr.",
   pronouns: "He/Him",
   location: "Ilocos Sur, Philippines 🌍",
-  role: "IT Student & AI Enthusiast",
-  education: "Information Technology Student",
-  motto: "Leveraging AI to build innovative solutions ✨",
-  interests: ["Web Development", "AI & Automation", "Agentic AI", "Open Source"],
+  role: "Software Engineer & AI Enthusiast",
+  education: "Information Technology Specialist",
+  motto: "Leveraging AI to build scalable, innovative solutions ✨",
+  interests: ["Software Engineering", "AI & Automation", "Cloud Architectures"],
   currently: {
-    learning: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
-    workingOn: "Responsive web applications and AI-powered solutions",
-    exploring: "Agentic AI, Generative AI, and workflow automation"
-  },
-  funFact: "I use AI to accelerate my learning and problem-solving! 🤖"
+    learning: ["TypeScript", "Advanced React", "System Design"],
+    workingOn: "Scalable web applications and AI-integrated platforms",
+    exploring: "Agentic AI, LLM Orchestration, and Cloud-Native workflows"
+  }
 };
 ```
 
@@ -66,7 +68,7 @@ const manolito016 = {
 
 <div align="center">
 
-[![IT Specialist - HTML & CSS](https://img.shields.io/badge/IT_Specialist-HTML_%26_CSS-7C3AED?style=for-the-badge&logo=certified&logoColor=white)](https://www.credly.com/go/F2SniiMATsxWNpNzPTDxgg)
+[![IT Specialist - HTML & CSS](https://img.shields.io/badge/IT_Specialist-HTML_%26_CSS-3B82F6?style=for-the-badge&logo=certified&logoColor=white)](https://www.credly.com/go/F2SniiMATsxWNpNzPTDxgg)
 
 **IT Specialist — HTML & CSS** | *Certiport, a Pearson VUE Business* | 2026
 
@@ -96,7 +98,7 @@ const manolito016 = {
 ![React](https://img.shields.io/badge/React-AI--Assisted-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### AI & Automation
-![Generative AI](https://img.shields.io/badge/Generative_AI-Trained-7C3AED?style=for-the-badge&logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Trained-3B82F6?style=for-the-badge&logo=google&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Trained-FF6B35?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Trained-25D366?style=for-the-badge)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-Trained-007ACC?style=for-the-badge)
@@ -115,7 +117,7 @@ const manolito016 = {
 
 | [**OJT_JOURNAL**](https://github.com/Manolito016/OJT_JOURNAL) | [**ToramDamageCalcu**](https://github.com/Manolito016/ToramDamageCalcu) | [**Portfolio**](https://github.com/Manolito016/Portfolio) |
 |:---:|:---:|:---:|
-| [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/OJT_JOURNAL) | [![ToramDamageCalcu](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=ToramDamageCalcu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/ToramDamageCalcu) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED)](https://github.com/Manolito016/Portfolio) |
+| [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/OJT_JOURNAL) | [![ToramDamageCalcu](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=ToramDamageCalcu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/ToramDamageCalcu) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/Portfolio) |
 | 📔 OJT documentation with AI | 🎮 Toram damage calculator | 🎵 Modern portfolio website |
 | `JavaScript` `PHP` `AI` | `TypeScript` `React` `Vite` | `HTML` `CSS` `JavaScript` |
 
@@ -141,7 +143,7 @@ Designed AI agent workflows for automated processes
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manolito016&theme=tokyonight&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=A855F7&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manolito016&theme=tokyonight&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=A855F7&area=true)
 
 </div>
 
@@ -165,9 +167,9 @@ Designed AI agent workflows for automated processes
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manolito016&label=Profile%20Views&color=7C3AED&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Manolito016&label=Profile%20Views&color=3B82F6&style=for-the-badge&logo=github)
 
-![GitHub Followers](https://img.shields.io/github/followers/Manolito016?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117)
+![GitHub Followers](https://img.shields.io/github/followers/Manolito016?style=for-the-badge&logo=github&color=3B82F6&labelColor=0D1117)
 ![GitHub Stars](https://img.shields.io/github/stars/Manolito016?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117)
 
 </div>
@@ -192,7 +194,7 @@ Designed AI agent workflows for automated processes
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Manolito016-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manolito016)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manolito%20Almaden%20Jr.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manolito-almaden-jr-a54a6634a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manolito016.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manolito016.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolitoalmadenjr@gmail.com)
 
 </div>
@@ -226,6 +228,6 @@ Designed AI agent workflows for automated processes
 
 ---
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-Today-7C3AED?style=for-the-badge&logo=github)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Today-3B82F6?style=for-the-badge&logo=github)
 
 </div>
