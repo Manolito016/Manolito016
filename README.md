@@ -115,11 +115,11 @@ const manolito016 = {
 
 <div align="center">
 
-| [**OJT_JOURNAL**](https://github.com/Manolito016/OJT_JOURNAL) | [**ToramDamageCalcu**](https://github.com/Manolito016/ToramDamageCalcu) | [**Portfolio**](https://github.com/Manolito016/Portfolio) |
+| [**OJT_JOURNAL**](https://github.com/Manolito016/OJT_JOURNAL) | [**DishManager**](https://github.com/Manolito016/DishManager) | [**Portfolio**](https://github.com/Manolito016/Portfolio) |
 |:---:|:---:|:---:|
-| [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/OJT_JOURNAL) | [![ToramDamageCalcu](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=ToramDamageCalcu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/ToramDamageCalcu) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/Portfolio) |
-| 📔 OJT documentation with AI | 🎮 Toram damage calculator | 🎵 Modern portfolio website |
-| `JavaScript` `PHP` `AI` | `TypeScript` `React` `Vite` | `HTML` `CSS` `JavaScript` |
+| [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/OJT_JOURNAL) | [![DishManager](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=DishManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/DishManager) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/Portfolio) |
+| 📔 OJT documentation with AI | 🍽️ Smart kitchen management | 🎵 Modern portfolio website |
+| `JavaScript` `PHP` `AI` | `JavaScript` `Management` `Web` | `HTML` `CSS` `JavaScript` |
 
 </div>
 
