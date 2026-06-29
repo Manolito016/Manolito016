@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;Software+Engineer+%26+AI+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;Software+Engineer+%26+AI+Solution+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -21,10 +21,10 @@ const manolito016 = {
   name: "Manolito O. Almaden Jr.",
   pronouns: "He/Him",
   location: "Ilocos Sur, Philippines",
-  role: "Software Engineer & AI Enthusiast",
+  role: "Software Engineer & AI Solution Developer",
   education: "Information Technology Specialist",
   motto: "Leveraging AI to build scalable, innovative solutions",
-  interests: ["Software Engineering", "AI & Automation", "Cloud Architectures"],
+  interests: ["Software Engineering", "AI Solutions", "Cloud Architectures"],
   currently: {
     learning: ["TypeScript", "Advanced React", "System Design"],
     workingOn: "Scalable web applications and AI-integrated platforms",
