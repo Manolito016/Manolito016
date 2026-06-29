@@ -1,23 +1,23 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="profile-img.png" alt="Manolito Almaden Jr." width="180" style="border-radius: 50%; margin-bottom: 20px;" />
+  <img src="profile-img.png" alt="Manolito Almaden Jr." width="180" style="border-radius: 50%; margin-bottom: 20px; border: 3px solid #3B82F6; box-shadow: 0 0 30px rgba(59, 130, 246, 0.3);" />
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;Software+Engineer+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;Software+Engineer+%26+AI+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </h1>
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```javascript
 const manolito016 = {
   name: "Manolito O. Almaden Jr.",
   pronouns: "He/Him",
-  location: "Ilocos Sur, Philippines 🌍",
+  location: "Ilocos Sur, Philippines",
   role: "Software Engineer & AI Enthusiast",
   education: "Information Technology Specialist",
-  motto: "Leveraging AI to build scalable, innovative solutions ✨",
+  motto: "Leveraging AI to build scalable, innovative solutions",
   interests: ["Software Engineering", "AI & Automation", "Cloud Architectures"],
   currently: {
     learning: ["TypeScript", "Advanced React", "System Design"],
@@ -29,7 +29,7 @@ const manolito016 = {
 
 ---
 
-## 📚 Education
+## Education
 
 - **Ilocos Sur Polytechnic State College** - Information Technology (Current)
 - **Pagangpang National High School** - GAS (2016 – 2022)
@@ -38,7 +38,7 @@ const manolito016 = {
 
 ---
 
-## 💼 Experience
+## Experience
 
 **IT/Student Developer** - *Ilocos Sur Polytechnic State College* (Academic Projects)
 - Developed responsive web applications using HTML, CSS, JavaScript, PHP, and Basic Anvil
@@ -47,7 +47,7 @@ const manolito016 = {
 
 ---
 
-## 🤖 AI Training & Certifications
+## AI Training & Certifications
 
 **Bayanaihan AI para sa Bayan On-the-Job Training Program**
 - Comprehensive training in Artificial Intelligence and workflow automation
@@ -64,7 +64,7 @@ const manolito016 = {
 
 ---
 
-## 🏆 Official Certifications
+## Official Certifications
 
 <div align="center">
 
@@ -72,13 +72,13 @@ const manolito016 = {
 
 **IT Specialist — HTML & CSS** | *Certiport, a Pearson VUE Business* | 2026
 
-[🔗 Verify Credential](https://www.credly.com/go/F2SniiMATsxWNpNzPTDxgg)
+[Verify Credential](https://www.credly.com/go/F2SniiMATsxWNpNzPTDxgg)
 
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <div align="center">
 
@@ -86,16 +86,15 @@ const manolito016 = {
 ![HTML5](https://img.shields.io/badge/HTML5-Certified-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Certified-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Self-Learned / Core Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-Self--Learned-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-Self--Learned-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%2FDatabase-Self--Learned-003B4F?style=for-the-badge&logo=mysql&logoColor=white)
+### Core Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%2FDatabase-Proficient-003B4F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI-Assisted Learning
-![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-AI--Assisted-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-AI--Assisted-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-AI--Assisted-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### AI & Automation
 ![Generative AI](https://img.shields.io/badge/Generative_AI-Trained-3B82F6?style=for-the-badge&logo=google&logoColor=white)
@@ -103,29 +102,29 @@ const manolito016 = {
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Trained-25D366?style=for-the-badge)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-Trained-007ACC?style=for-the-badge)
 
-### Soft Skills
-![Communication](https://img.shields.io/badge/Communication-Skills-25D366?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Skills-FF6B35?style=for-the-badge)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Daily_Use-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Daily_Use-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | [**OJT_JOURNAL**](https://github.com/Manolito016/OJT_JOURNAL) | [**DishManager**](https://github.com/Manolito016/DishManager) | [**Portfolio**](https://github.com/Manolito016/Portfolio) |
 |:---:|:---:|:---:|
 | [![OJT_JOURNAL](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=OJT_JOURNAL&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/OJT_JOURNAL) | [![DishManager](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=DishManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/DishManager) | [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manolito016&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/Manolito016/Portfolio) |
-| 📔 OJT documentation with AI | 🍽️ Smart kitchen management | 🎵 Modern portfolio website |
+| OJT documentation platform | Smart kitchen management | Modern portfolio website |
 | `JavaScript` `PHP` `AI` | `JavaScript` `Management` `Web` | `HTML` `CSS` `JavaScript` |
 
 </div>
 
 ---
 
-## 🤖 AI Projects & Hackathons
+## AI Projects & Hackathons
 
 <div align="center">
 
@@ -139,7 +138,7 @@ Designed AI agent workflows for automated processes
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -149,7 +148,7 @@ Designed AI agent workflows for automated processes
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -163,7 +162,7 @@ Designed AI agent workflows for automated processes
 
 ---
 
-## 📈 Profile Stats
+## Profile Stats
 
 <div align="center">
 
@@ -188,7 +187,7 @@ Designed AI agent workflows for automated processes
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -222,9 +221,9 @@ Designed AI agent workflows for automated processes
 
 <div align="center">
 
-### 🤖 AI-powered development. Real-world solutions. Let's innovate!
+### AI-powered development. Real-world solutions. Let's innovate!
 
-**Built with** ✨ **by Manolito016**
+**Built with precision and care by Manolito016**
 
 ---
 
