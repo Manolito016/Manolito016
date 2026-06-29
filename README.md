@@ -1,6 +1,5 @@
-<!-- Animated Header -->
+<!-- Profile Header -->
 <div align="center">
-  <img src="profile-img.png" alt="Manolito Almaden Jr." width="180" style="border-radius: 50%; margin-bottom: 20px; border: 3px solid #3B82F6; box-shadow: 0 0 30px rgba(59, 130, 246, 0.3);" />
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Manolito+Almaden;Software+Engineer+%26+AI+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   </h1>
@@ -9,6 +8,10 @@
 ---
 
 ## About Me
+
+<div style="display: flex; align-items: flex-start; gap: 24px;">
+  <img src="profile-img.png" alt="Manolito Almaden Jr." width="120" style="border-radius: 50%; border: 3px solid #3B82F6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.3); flex-shrink: 0;" />
+  <div>
 
 ```javascript
 const manolito016 = {
@@ -26,6 +29,9 @@ const manolito016 = {
   }
 };
 ```
+
+  </div>
+</div>
 
 ---
 
