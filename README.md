@@ -9,9 +9,12 @@
 
 ## About Me
 
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-  <img src="profile-img.png" alt="Manolito Almaden Jr." width="120" style="border-radius: 50%; border: 3px solid #3B82F6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.3); flex-shrink: 0;" />
-  <div>
+<table>
+  <tr>
+    <td style="padding-right: 24px; vertical-align: top;">
+      <img src="profile-img.png" alt="Manolito Almaden Jr." width="120" style="border-radius: 50%; border: 3px solid #3B82F6; box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);" />
+    </td>
+    <td style="vertical-align: top;">
 
 ```javascript
 const manolito016 = {
@@ -30,8 +33,9 @@ const manolito016 = {
 };
 ```
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -181,7 +185,7 @@ Designed AI agent workflows for automated processes
 
 ---
 
-## 🎵 Currently Vibing To
+## Currently Listening To
 
 <div align="center">
 
@@ -206,7 +210,7 @@ Designed AI agent workflows for automated processes
 
 ---
 
-## 💡 Support
+## Support
 
 <!-- 
 <div align="center">
